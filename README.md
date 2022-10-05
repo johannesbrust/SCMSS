@@ -1,6 +1,6 @@
-# LMSS_SC
+# SCMSS
                                                                        
- LMSS_SC: Shape-changing limited-memory Multipoint Symmetric Secant 
+ SCMSS: Shape-changing limited-memory Multipoint Symmetric Secant 
  trust-region algorithms for large-scale optimization problems                                     
                                                                        
                             minimize f(x)                                   
