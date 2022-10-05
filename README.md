@@ -8,7 +8,7 @@
  The methods seek a point "norm(grad(x)) = 0", where grad(x) is
  the gradient of the objective f(x).
 
- J.J Brust, J.B. Erway, R.F. Marcia (2022)                                                                        
+ J.J Brust, J.B. Erway, R.F. Marcia (2022), [[Article](https://arxiv.org/abs/2209.12057 "Technical Report")]                                                                        
 
 
 ## Setup
