@@ -1,0 +1,7 @@
+ \texttt{28} & \texttt{34} &  \texttt{7.43e-02} & \texttt{1.93e-05} & \texttt{29} & \texttt{35} &  \texttt{1.11e-01} & \texttt{3.27e-05} & \texttt{36} & \texttt{42} &  \texttt{1.31e-01} & \texttt{1.65e-05} \\ 
+ \texttt{51} & \texttt{57} &  \texttt{6.10e-02} & \texttt{8.99e-05} & \texttt{30} & \texttt{36} &  \texttt{3.62e-02} & \texttt{6.61e-05} & \texttt{32} & \texttt{38} &  \texttt{5.99e-02} & \texttt{1.88e-05} \\ 
+ \texttt{50} & \texttt{56} &  \texttt{7.38e-02} & \texttt{5.90e-05} & \texttt{50} & \texttt{56} &  \texttt{1.03e-01} & \texttt{3.73e-05} & \texttt{45} & \texttt{51} &  \texttt{8.96e-02} & \texttt{1.42e-05} \\ 
+ \texttt{88} & \texttt{94} &  \texttt{1.66e-01} & \texttt{2.44e-06} & \texttt{43} & \texttt{49} &  \texttt{8.82e-02} & \texttt{9.21e-05} & \texttt{53} & \texttt{59} &  \texttt{1.33e-01} & \texttt{1.16e-05} \\ 
+ \texttt{50} & \texttt{56} &  \texttt{3.23e-01} & \texttt{3.08e-06} & \texttt{57} & \texttt{63} &  \texttt{3.69e-01} & \texttt{4.93e-05} & \texttt{86} & \texttt{92} &  \texttt{5.51e-01} & \texttt{1.23e-07} \\ 
+ \texttt{163} & \texttt{169} &  \texttt{2.35e+00} & \texttt{2.76e-05} & \texttt{137} & \texttt{143} &  \texttt{2.16e+00} & \texttt{2.02e-05} & \texttt{81} & \texttt{87} &  \texttt{1.14e+00} & \texttt{6.51e-07} \\ 
+ \texttt{56} & \texttt{62} &  \texttt{2.72e+00} & \texttt{5.50e-05} & \texttt{84} & \texttt{90} &  \texttt{4.07e+00} & \texttt{3.79e-05} & \texttt{74} & \texttt{80} &  \texttt{3.55e+00} & \texttt{4.74e-07} \\ 
