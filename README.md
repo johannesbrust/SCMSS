@@ -1,16 +1,15 @@
 # LMSS_SC
-###########################################################################
                                                                        
- LMSS_SC: Shape-changing limited-memory Multipoint Symmetric Secant<br/> 
+ LMSS_SC: Shape-changing limited-memory Multipoint Symmetric Secant 
  trust-region algorithms for large-scale optimization problems                                     
                                                                        
                             minimize f(x)                                   
  
- The methods seek a point "norm(grad(x)) = 0", where grad(x) is<br/>
+ The methods seek a point "norm(grad(x)) = 0", where grad(x) is
  the gradient of the objective f(x).
 
  J.J Brust, J.B. Erway, R.F. Marcia (2022)                                                                        
-###########################################################################
+
 
 ## Setup
 Files are organized in 6 folders:
@@ -101,4 +100,18 @@ Iter 	 fk      	 norm(gk)  	 TR     	 numf
 32 	 3.3913e-09 	 2.3060e-04 	 9.9438e-01 	 38  
 33 	 1.0920e-11 	 1.0197e-05 	 9.9438e-01 	 39  
 34 	 1.0324e-17 	 3.2252e-09 	 9.9438e-01 	 40
+```
+
+## Cite
+You can cite this work as (bibtex)
+
+```
+@TechReport{scmss22,
+  author      = {Johannes J. Brust, Jennifer B. Erway and Roummel F. Marcia},
+  title       = {Shape-Changing Trust-Region Methods Using Multipoint Symmetric Secant Matrices},
+  institution = {Mathematics Department, University of California, San Diego, CA},
+  type        = {Technical Report},
+  year        = {2022},
+  url         = {https://doi.org/10.48550/arXiv.2209.12057}
+}
 ```
